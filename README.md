@@ -78,5 +78,5 @@ yarn install
 
 ## Demo Video
 
-[Click here to watch the demo](./assets/demo/demo.mp4)
+[Click here to watch the demo](https://www.youtube.com/shorts/Uf--kvl0iEg)
 
