@@ -71,12 +71,16 @@ yarn install
 ## 📸 Screenshots
 
 ### 🔐 Signup Screen
-![Signup Screen](assets/demo/signup.jpg)
+
+<img src="assets/demo/signup.jpg" alt="Signup Screen" width="400">
+
 
 ### 🔐 Login Screen
-![Login Screen](assets/demo/login.jpg)
+<img src="assets/demo/login.jpg" alt="Login Screen" width="400">
+
 
 ### 🔐 Dashboard Screen
-![Dashboard Screen](assets/demo/dash.jpg)
+<img src="assets/demo/dash.jpg" alt="Dashboard Screen" width="400">
+
 
 
