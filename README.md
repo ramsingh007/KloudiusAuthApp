@@ -71,8 +71,8 @@ yarn install
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="assets/demo/signup.jpg" alt="Settings" width="250">
   <img src="assets/demo/login.jpg" alt="Login" width="250">
-  <img src="assets/demo/dashboard.jpg" alt="Dashboard" width="250">
-  <img src="assets/demo/settings.jpg" alt="Settings" width="250">
+  <img src="assets/demo/dash.jpg" alt="Dashboard" width="250">
 </p>
 
