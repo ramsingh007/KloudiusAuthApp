@@ -76,3 +76,7 @@ yarn install
   <img src="assets/demo/dash.jpg" alt="Dashboard" width="250">
 </p>
 
+## Demo Video
+
+[Click here to watch the demo](./assets/demo/demo.mp4)
+
